@@ -28,7 +28,7 @@ So, after seeing many concepts online, I have decided to try to inbed this seaml
 * The Main Title UI will fade in on top of this, with the cave background being a (hopefully) seamless gif, so that the lava, lightning flashes, torches, etc. will all still appear to move.
 * I also plan to try to remove the text from the bottom of the outro, including the Xbox and Mojang logos, and the "minecraft.net" text. We'll see how that goes.
 
-* **EDIT:** Thanks to [this](https://youtu.be/SYlJOfDjRQM?t=16) concept, it has inspired me to possibly extend this mod further, specifically the part where the camera zooms back out of the cave when clicking singleplayer. The concept of this movement when clicking singleplayer or creating a world or something sounds dope. This will definitely be a later addition, as I will focus on the main intro first, but I will update with any info on this. :)
+* **EDIT:** Thanks to [this](https://youtu.be/SYlJOfDjRQM?t=16) concept, it has inspired me to possibly extend this mod further, specifically the part where the camera zooms back out of the cave when clicking singleplayer. The concept of this movement when clicking singleplayer or creating a world or something sounds dope. This will definitely be a later addition, as I will focus on the main intro first, but I will update with any info on this.
 
 ### Preparing the Mod
 
