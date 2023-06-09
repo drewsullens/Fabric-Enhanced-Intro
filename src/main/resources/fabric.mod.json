@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "enhanced-intro",
+  "version": "${version}",
+  "name": "Enhanced Intro",
+  "description": "An Enhanced Makeover of the Minecraft: Java Edition startup.",
+  "authors": [
+    "Drew Sullens"
+  ],
+  "contact": {
+    "repo": "https://github.com/Drew Sullens/Enhanced Intro"
+  },
+  "license": "MIT",
+  "icon": "assets/enhanced-intro/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.drewsullens.enhancedintro.client.EnhancedIntroClient"
+    ],
+    "main": [
+      "com.drewsullens.enhancedintro.EnhancedIntro"
+    ]
+  },
+  "mixins": [
+    "enhanced-intro.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
