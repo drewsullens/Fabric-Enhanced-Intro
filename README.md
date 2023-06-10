@@ -4,8 +4,7 @@
 
 ## 6 June 2023: The Beginning
 
-This is my first time working with Fabric, so note that the code used here will likely be very primitive.  
-"Enhanced Intro" is kinda ambiguous, so I want to give an overview of what the mod is/does, and what inspired it:
+This is my first time working with Fabric, so note that the code used here will likely be very primitive.  I want to give an overview of what the mod is/does, and what inspired it:
 
 ### Inspiration
 
